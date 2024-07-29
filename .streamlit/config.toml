@@ -1,6 +1,5 @@
 [server]
 headless = false
-port = 9090
 
 [theme]
 base = "light"
