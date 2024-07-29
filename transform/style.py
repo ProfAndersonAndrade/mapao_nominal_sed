@@ -97,7 +97,7 @@ def footer():
                 <a href="https://opensource.org/licenses/MIT" target="_blank">MIT License</a></p>
                 <p>Este aplicativo é destinado apenas à visualização e não armazena ou salva dados de terceiros.
                   Todos os dados são processados localmente e temporariamente para fins de exibição.</p>
-                <p style="text-align:right;">By Prof. Anderson | 
+                <p style="text-align:left;">By Prof. Anderson | 
                 <a href="https://github.com/ProfAndersonAndrade" target="_blank">
                     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo">
                 </a> 
