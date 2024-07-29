@@ -73,12 +73,12 @@ def footer():
                 background-color: #f1f1f1;
                 color: #000;
                 text-align: center;
-                padding: 10px;
-                font-size: 14px;
+                padding: 5px;
+                font-size: 10px;
             }
 
             .footer-custom img {
-                width: 20px; /* Ajuste o tamanho conforme necessário */
+                width: 16px; /* Ajuste o tamanho conforme necessário */
                 margin-right: 5px;
                 vertical-align: middle;
             }
