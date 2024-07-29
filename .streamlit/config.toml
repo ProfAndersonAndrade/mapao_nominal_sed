@@ -1,7 +1,3 @@
-[server]
-headless = false
-
-
 [theme]
 base = "light"
 primaryColor = "#e78ac3"
