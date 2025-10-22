@@ -8,7 +8,7 @@ import time
 
 # Título da aplicação
 st.markdown('''
-# Mapão Nominal SED
+# Mapão Nominal Sala do Futuro
 ''')
 
 # Upload do arquivo
